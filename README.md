@@ -7,7 +7,7 @@ To develop a fashion ecommerce website with 3 ends- customer, vendor and admin, 
 * Need:
 Most fashion ecommerce sites today don’t offer a lot of interaction between the customer and the vendor. Hence queries of customers often go unanswered.
 * Solution: 
-Jade - Can’t find your size? Want to find an online store? Contact the vendor by sending him your query!
+Fashion eCommerce site Jade - Can’t find your size? Want to find an online store? Contact the vendor by sending him your query!
 
 ## Process:
 
